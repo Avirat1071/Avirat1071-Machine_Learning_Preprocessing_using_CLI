@@ -10,9 +10,9 @@ One more advantage of pre-processing is that it is considered time consuming for
 This simple CLI tool will save your time so that you can utilize it in applying different machine learning algorithms.
 
 ## You will apply the following pre-processing steps:
-• *Developed a command-line interface tool to streamline ML preprocessing workflows.*
-• *Automation: Built CLI utilities to automate repetitive ML preprocessing tasks such as data cleaning, normalization, encoding, and feature selection.* 
-• *Reproducible Pipelines: Enabled seamless integration into end-to-end ML pipelines, ensuring consistency and scalability for various datasets.* 
-• *Versatility: Designed the tool to handle diverse data formats (CSV, JSON) and apply preprocessing techniques across domains like e-commerce, healthcare, and finance.* 
-• *Impact: Reduced preprocessing time by 60% in test cases, significantly speeding up experimentation and model iteration cycles.* 
-• *Tech Stack: Python, Argparse, Pandas, NumPy, Scikit-Learn, Tkinter.*
+- *Developed a command-line interface tool to streamline ML preprocessing workflows.*
+- *Automation: Built CLI utilities to automate repetitive ML preprocessing tasks such as data cleaning, normalization, encoding, and feature selection.* 
+- *Reproducible Pipelines: Enabled seamless integration into end-to-end ML pipelines, ensuring consistency and scalability for various datasets.* 
+- *Versatility: Designed the tool to handle diverse data formats (CSV, JSON) and apply preprocessing techniques across domains like e-commerce, healthcare, and finance.* 
+- *Impact: Reduced preprocessing time by 60% in test cases, significantly speeding up experimentation and model iteration cycles.* 
+- *Tech Stack: Python, Argparse, Pandas, NumPy, Scikit-Learn, Tkinter.*
